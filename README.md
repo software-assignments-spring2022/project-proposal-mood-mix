@@ -23,8 +23,7 @@ Those who are seeking self care tools or are trying to improve their mental heal
 _________________________________________________________________________________________________________________________________________________________________________________
 
 How:
-A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
-
+The user will provide an email and password to create an account. They would then also provide information for genres of music and artists they already listen to, and answer questions based upon their mental health. We would then generate playlists for different moods based upon previously given information, and these playlists could be exported to other streaming platforms. They can like certain songs in the playlist, which would help in finding better music when the playlist is regenerated. Spotify's API gives detailed information about songs(rhythm, bars, beats, danceability), which would help place songs into playlists for different moods. Another option is to use musixmatch, which has lyrics and maybe with sentiment analysis, we can better classify songs for playlists based on content.
 _________________________________________________________________________________________________________________________________________________________________________________
 
 Scope:
