@@ -15,12 +15,17 @@ Music is very therapeutic and has many benefits when it comes to your mental hea
 A lot of people struggle with mental health and symptoms from different mental illnesses.  
 This app could cater to these individuals to help them to cope with some of their symptoms and/or feel a sense of connection to new music, new artists, or other users.
 
+_________________________________________________________________________________________________________________________________________________________________________________
 
 For whom:
 Those who are seeking self care tools or are trying to improve their mental health symptoms and enjoy music.
 
+_________________________________________________________________________________________________________________________________________________________________________________
+
 How:
 A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
+
+_________________________________________________________________________________________________________________________________________________________________________________
 
 Scope:
 A brief justification that the proposal is neither too easy nor too ambitions for a group of approximately 4 - 6 programmers to undertake in one semester.
