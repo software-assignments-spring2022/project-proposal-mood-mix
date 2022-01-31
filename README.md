@@ -5,6 +5,11 @@ Mood Mix
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
+Team Members: 
+Isabel Huey, Ally Hu, Hannah Harvard 
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
 What and why:
 A web browser that is catered to you and your mental health. It will ask you intro questions regarding your music taste and mental health.
 It will then make you various playlists for different mental health symptoms/needs based on these intro questions.
