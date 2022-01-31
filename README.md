@@ -6,9 +6,9 @@ Mood Mix
 _________________________________________________________________________________________________________________________________________________________________________________
 
 What and why:
-An app that is catered to you and your mental health. The app will ask you intro questions regarding your music taste and mental health.
+A web browser that is catered to you and your mental health. It will ask you intro questions regarding your music taste and mental health.
 It will then make you various playlists for different mental health symptoms/needs based on these intro questions.
-The app could have a function to link to and create these playlists in Spotify, Apple Music or whichever music platform you use.
+The web browser could have a function to link to and create these playlists in Spotify, Apple Music or whichever music platform you use.
 There could also be a social media element to connect with others who are struggling with the same things or have similar music interests.
 
 Music is very therapeutic and has many benefits when it comes to your mental health.
