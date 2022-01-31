@@ -27,4 +27,4 @@ The user will provide an email and password to create an account. They would the
 _________________________________________________________________________________________________________________________________________________________________________________
 
 Scope:
-A brief justification that the proposal is neither too easy nor too ambitions for a group of approximately 4 - 6 programmers to undertake in one semester.
+This project seems feasible, especially since there are music APIs to use. Some difficult tasks may be exporting playlists to other streaming services or doing sentiment analysis, if we decide to take it on.
