@@ -3,6 +3,8 @@
 Project title:
 Mood Mix 
 
+_________________________________________________________________________________________________________________________________________________________________________________
+
 What and why:
 An app that is catered to you and your mental health. The app will ask you intro questions regarding your music taste and mental health.
 It will then make you various playlists for different mental health symptoms/needs based on these intro questions.
